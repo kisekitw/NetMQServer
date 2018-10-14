@@ -1,0 +1,10 @@
+C:\Users\kisek\source\repos\NetMQDemo\NetMQDemo\bin\Debug\NetMQDemo.exe.config
+C:\Users\kisek\source\repos\NetMQDemo\NetMQDemo\bin\Debug\NetMQDemo.exe
+C:\Users\kisek\source\repos\NetMQDemo\NetMQDemo\bin\Debug\NetMQDemo.pdb
+C:\Users\kisek\source\repos\NetMQDemo\NetMQDemo\bin\Debug\AsyncIO.dll
+C:\Users\kisek\source\repos\NetMQDemo\NetMQDemo\bin\Debug\NetMQ.dll
+C:\Users\kisek\source\repos\NetMQDemo\NetMQDemo\obj\Debug\NetMQDemo.csprojAssemblyReference.cache
+C:\Users\kisek\source\repos\NetMQDemo\NetMQDemo\obj\Debug\NetMQDemo.csproj.CoreCompileInputs.cache
+C:\Users\kisek\source\repos\NetMQDemo\NetMQDemo\obj\Debug\NetMQDemo.csproj.CopyComplete
+C:\Users\kisek\source\repos\NetMQDemo\NetMQDemo\obj\Debug\NetMQDemo.exe
+C:\Users\kisek\source\repos\NetMQDemo\NetMQDemo\obj\Debug\NetMQDemo.pdb
